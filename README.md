@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://github.com/rdeconti/Project-Aparecida-Nutricionista/blob/main/Aparecida%20Nutricionista.png">
+    <img src="https://github.com/rdeconti/Project-Alura-News/blob/main/Alura%20News.png">
 </h1>
 
 ---
